@@ -1,6 +1,6 @@
 public class House
 {
-    //create 4 instance variables
+    //create 4 instance variables (one String, one boolean, two integers)
 
     //create a default constructor
 
